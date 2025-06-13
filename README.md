@@ -24,7 +24,7 @@ Cozywoods is a warm, immersive modpack focused on relaxed exploration, creative 
 ## 📦 Installation
 
 1. Download the latest version from [CurseForge / Modrinth / GitHub Releases](#)  
-2. Install [Prism Launcher](https://prismlauncher.org/) or your launcher of choice  
+2. Install Modrinth/CurseForge/Prism/AT-Launcher or your launcher of choice  
 3. Import the `.mrpack` or `.zip` file  
 4. Launch with **Minecraft 1.21.1 + NeoForge**
 
@@ -51,7 +51,7 @@ Modpack design, art & configuration by the **Cozywoods Team**.
 Special thanks to the creators of:
 
 - `Create`, `Farmer's Delight`, `Patchouli`, `Ars Nouveau`, `Tough As Nails`, and more  
-- Icon & UI pixelart by [your name/handle]  
+- Icon & UI pixelart by DefinitivTim
 - Additional quest writing and feedback by the community ❤️
 
 ---
