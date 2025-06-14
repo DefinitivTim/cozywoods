@@ -50,7 +50,7 @@ All mods are property of their respective authors.
 Modpack design, art & configuration by the **Cozywoods Team**.  
 Special thanks to the creators of:
 
-- `Create`, `Farmer's Delight`, `Patchouli`, `Ars Nouveau`, `Tough As Nails`, and more  
+- `Create`, `Farmer's Delight`, `Let's Do`, and more  
 - Icon & UI pixelart by DefinitivTim
 - Additional quest writing and feedback by the community ❤️
 
