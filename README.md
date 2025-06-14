@@ -23,12 +23,10 @@ Cozywoods is a warm, immersive modpack focused on relaxed exploration, creative 
 
 ---
 
-## 📦 Installation
+## 📦 Get the Pack
 
-1. Download the latest version from [CurseForge / Modrinth / GitHub Releases](#)  
-2. Install Modrinth/CurseForge/Prism/AT-Launcher or your launcher of choice  
-3. Import the `.mrpack` or `.zip` file  
-4. Launch with **Minecraft 1.21.1 + NeoForge**
+Modrinth
+Curseforge
 
 > ❗ Java 17+ required  
 > 🖥️ Recommended: 8 GB RAM
@@ -68,7 +66,7 @@ Please do not redistribute the modpack with changes outside official release cha
 
 ## 🌐 Contact & Community
 
-Coming soon: Discord Server & Modpack Wiki  
+Join our [Discord](https://discord.gg/definitivtim) 
 Issues? Suggestions? Feel free to open an [Issue](https://github.com/cozywoods/issues)
 
 ---
