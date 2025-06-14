@@ -1,6 +1,8 @@
+![Cozywoods Logo](assets/cozywoods_transparent_1200x.png)
+
 # 🌲 Cozywoods
 
-**A cozy, magical, exploration-driven modpack built on NeoForge 1.21.1**  
+**A cozy, magical, exploration-driven modpack built on Forge 1.20.1**  
 *Home is where the teapot whistles and the toolbench hums.*
 
 ---
@@ -51,7 +53,7 @@ Modpack design, art & configuration by the **Cozywoods Team**.
 Special thanks to the creators of:
 
 - `Create`, `Farmer's Delight`, `Let's Do`, and more  
-- Icon & UI pixelart by DefinitivTim
+- Design by DefinitivTim
 - Additional quest writing and feedback by the community ❤️
 
 ---
