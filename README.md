@@ -66,7 +66,7 @@ Please do not redistribute the modpack with changes outside official release cha
 
 ## 🌐 Contact & Community
 
-Join our [Discord](https://discord.gg/definitivtim) 
+Join our [Discord](https://discord.gg/definitivtim)  
 Issues? Suggestions? Feel free to open an [Issue](https://github.com/cozywoods/issues)
 
 ---
