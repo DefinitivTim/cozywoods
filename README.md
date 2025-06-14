@@ -1,4 +1,4 @@
-![Cozywoods Logo](assets/cozywoods_transparent_1200x.png)
+![Cozywoods Logo](assets/cozywoods_transparent_16-9.png)
 
 # 🌲 Cozywoods
 
@@ -31,7 +31,7 @@ Cozywoods is a warm, immersive modpack focused on relaxed exploration, creative 
 4. Launch with **Minecraft 1.21.1 + NeoForge**
 
 > ❗ Java 17+ required  
-> 🖥️ Recommended: 6–8 GB RAM
+> 🖥️ Recommended: 8 GB RAM
 
 ---
 
