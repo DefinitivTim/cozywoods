@@ -35,7 +35,7 @@ We actively monitor for unauthorized use and distribution. If a violation is fou
 
 ## 📬 Contact Us
 
-For permissions beyond what's covered here, or for any questions about modpack usage, please reach out to the CozyCord Team through our official Discord server.
+For permissions beyond what's covered here, or for any questions about modpack usage, please reach out to the Cozywoods Team through our official Discord server.
 
 ---
 
