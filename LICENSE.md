@@ -16,12 +16,11 @@ _Cozywoods_ is designed to be freely available. Charging others for access to th
 ## 🚫 Limitations
 
 **No Redistribution of Custom Assets:**  
-You may not copy, edit, distribute, or repackage any custom content from _Cozywoods_ without explicit permission from the CozyCord Team. This includes, but is not limited to:
+You may not copy, edit, distribute, or repackage any custom content from _Cozywoods_ without explicit permission from the Cozywoods Team. This includes, but is not limited to:
 
 - The _Cozywoods_ logo  
 - Custom FancyMenu assets  
 - The _Cozywoods_ resource pack  
-- Tokimi's Terrain Datapack  
 - Custom textures, models, UI, branding, or other original files  
 
 **No Unauthorized Publishing:**  
